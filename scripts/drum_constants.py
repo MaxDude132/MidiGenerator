@@ -1,0 +1,8 @@
+KICK = "C1"
+SNARE = "E1"
+HH_CLOSED = "F#1"
+HH_HALF_OPEN = "G#1"
+HH_OPEN = "A#1"
+TOM_HIGH = "B1"
+TOM_MID = "G1"
+FLOOR = "F1"
